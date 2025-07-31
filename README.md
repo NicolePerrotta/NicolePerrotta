@@ -31,8 +31,7 @@
 ---
 ### 🛠️ Skills & Technologies
 
-<div align="left">
-  - <strong>🧠 Programming:</strong>
+- <strong>🧠 Programming:</strong>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="20" style="vertical-align: middle;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="20" style="vertical-align: middle;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="20" style="vertical-align: middle;" />
@@ -41,10 +40,8 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" style="vertical-align: middle;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="20" style="vertical-align: middle;" />
   <img src="https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg" width="20" style="vertical-align: middle;" />
-</div>
 
-<div align="left">
-  - <strong>🗄️ Data & Databases:</strong>
+- <strong>🗄️ Data & Databases:</strong>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="20" style="vertical-align: middle;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="20" style="vertical-align: middle;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="20" style="vertical-align: middle;" />
@@ -52,36 +49,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" width="20" style="vertical-align: middle;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="20" style="vertical-align: middle;" />
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="20" style="vertical-align: middle;" />
-</div>
 
-<div align="left">
-  - <strong>⚙️ DevOps & Systems:</strong>
+- <strong>⚙️ DevOps & Systems:</strong>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="20" style="vertical-align: middle;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="20" style="vertical-align: middle;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="20" style="vertical-align: middle;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="20" style="vertical-align: middle;" />
-</div>
 
-<div align="left">
-  - <strong>🌐 Web & UI:</strong>
+- <strong>🌐 Web & UI:</strong>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="20" style="vertical-align: middle;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" style="vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" style="vertical-align: middle;" />
-</div>
 
-<div align="left">
-  <strong>☁️ Cloud:</strong> Microsoft Azure Fundamentals, NetApp Hybrid Cloud Associate
-</div>
-
-<div align="left">
-  - <strong>📊 Analysis & Business:</strong> Matlab, Excel, Financial Statement Analysis, Marketing Strategy
-</div>
-
-<div align="left">
-  - <strong>🧩 Additional Areas:</strong> Machine Learning, Data Engineering, Telecommunications, Software Development, Problem Solving, Whiteboarding, Product Demo, Communication, Customer Interaction, Team Leadership, Computer Graphics (Vulkan)
-</div>
+- <strong>☁️ Cloud:</strong> Microsoft Azure Fundamentals, NetApp Hybrid Cloud Associate  
+- <strong>📊 Analysis & Business:</strong> Matlab, Excel, Financial Statement Analysis, Marketing Strategy  
+- <strong>🧩 Additional Areas:</strong> Machine Learning, Data Engineering, Telecommunications, Software Development, Problem Solving, Whiteboarding, Product Demo, Communication, Customer Interaction, Team Leadership, Computer Graphics (Vulkan)
 
 ---
+
 
 ### 📜 Certifications
 
