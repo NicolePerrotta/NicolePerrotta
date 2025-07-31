@@ -68,7 +68,7 @@
 ---
 
 
-### 📜 Certifications
+### ✅ Certifications
 
 - 🟦 **Microsoft:** Azure Fundamentals AZ-900 – *Issued Jul 2025*  
 - 💾 **NetApp:** NetApp Accredited Foundations Associate – *Issued Apr 2025*  
@@ -81,7 +81,7 @@
 
 ---
 
-### 📬 Contacts
+### 👤  Profiles
 
 - 📧 [perrottanicole00@gmail.com](mailto:perrottanicole00@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicole-perrotta-117693201/)
