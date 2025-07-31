@@ -32,57 +32,57 @@
 ### 🛠️ Skills & Technologies
 
 #### 🧠 Programming
-- Python <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="20" />,  
-- C <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="20" />,  
-- C++ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="20" />,  
-- Java <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" />,  
-- Scala <img src="https://cdn.brandfetch.io/idjTXE6-rQ/w/400/h/400/theme/dark/icon.jpeg" width="20" />,  
-- JavaScript <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" />,  
-- PHP <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="20" />,  
-- Assembly <img src="https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg" width="20" />  
-  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="30" />
+  <img src="https://cdn.brandfetch.io/idjTXE6-rQ/w/400/h/400/theme/dark/icon.jpeg" width="30" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="30" />
+  <img src="https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg" width="30" />
+</p>
 
 #### 🗄️ Data & Databases
-- PostgreSQL <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="20" />,  
-- MySQL <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="20" />,  
-- MongoDB <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="20" />,  
-- Neo4j <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Neo4j-logo_color.png/640px-Neo4j-logo_color.png" width="20" />,  
-- Cassandra <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" width="20" />,  
-- Spark <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="20" />,  
-- Elasticsearch <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="20" />  
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Neo4j-logo_color.png/640px-Neo4j-logo_color.png" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="30" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="30" />
+</p>
 
 #### ⚙️ DevOps & Systems
-- Docker <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="20" />,  
-- GitHub <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="20" />,  
-- Linux <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="20" />,  
-- Bash <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="20" />  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="30" />
+</p>
 
 #### 🌐 Web & UI
-- HTML <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="20" />,  
-- CSS <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" />,  
-- Bootstrap <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" />  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" />
+</p>
 
 #### ☁️ Cloud
-- Microsoft Azure Fundamentals ☁️,  
-- NetApp Hybrid Cloud Associate ☁️  
+<p align="left">
+  Microsoft Azure Fundamentals, NetApp Hybrid Cloud Associate
+</p>
 
 #### 📊 Analysis & Business
-- Excel (Rice University) 📊,  
-- Financial Statement Analysis 📉  
+<p align="left">
+  Excel (Rice University), Financial Statement Analysis
+</p>
 
 #### 🧩 Additional Areas
-- Machine Learning 🤖,  
-- Data Engineering 🛠️,  
-- Telecommunications 📡,  
-- Software Development 🧑‍💻,  
-- Problem Solving 🧠,  
-- Whiteboarding ✏️,  
-- Product Demo 🪧,  
-- Communication 🗣️,  
-- Customer Interaction 🤝,  
-- Team Leadership 👥,  
-- Computer Graphics (Vulkan) 🎮
+<p align="left">
+  Machine Learning, Data Engineering, Telecommunications, Software Development, Problem Solving, Whiteboarding, Product Demo, Communication, Customer Interaction, Team Leadership, Computer Graphics (Vulkan)
+</p>
 
 ### 📜 Certifications
 
