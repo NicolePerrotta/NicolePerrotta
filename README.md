@@ -73,7 +73,7 @@
 </div>
 
 <div align="left">
-  <strong>📊 Analysis & Business:</strong> Excel (Rice University), Financial Statement Analysis
+  <strong>📊 Analysis & Business:</strong> Matlab, Excel, Financial Statement Analysis, Marketing Strategy
 </div>
 
 <div align="left">
