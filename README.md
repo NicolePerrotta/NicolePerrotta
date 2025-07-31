@@ -28,7 +28,6 @@
 - 🚀 Always seeking innovative solutions to business challenges  
 
 ---
-
 ### 🛠️ Skills & Technologies
 
 <div align="left">
@@ -65,7 +64,21 @@
 <div align="left">
   <strong>🌐 Web & UI:</strong>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="20" style="vertical-align: middle;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" st
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" style="vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" style="vertical-align: middle;" />
+</div>
+
+<div align="left">
+  <strong>☁️ Cloud:</strong> Microsoft Azure Fundamentals, NetApp Hybrid Cloud Associate
+</div>
+
+<div align="left">
+  <strong>📊 Analysis & Business:</strong> Excel (Rice University), Financial Statement Analysis
+</div>
+
+<div align="left">
+  <strong>🧩 Additional Areas:</strong> Machine Learning, Data Engineering, Telecommunications, Software Development, Problem Solving, Whiteboarding, Product Demo, Communication, Customer Interaction, Team Leadership, Computer Graphics (Vulkan)
+</div>
 
 
 ### 📜 Certifications
