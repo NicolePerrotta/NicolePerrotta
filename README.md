@@ -49,7 +49,7 @@
 ### 📬 Contacts
 
 - 📧 Email: [perrottanicole00@gmail.com](mailto:perrottanicole00@gmail.com)
-- 💼 [LinkedIn]([https://linkedin.com/in/tuonomeutente](https://www.linkedin.com/in/nicole-perrotta-117693201/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicole-perrotta-117693201/)
 - 📸 [Instagram](https://www.instagram.com/nicole_perrotta7/)  
 - 🏅 [Credly Badges](https://www.credly.com/users/nicole-perrotta.445990ef/)
-- 🐙 [GitHub]([https://github.com/tuonomeutente](https://github.com/NicolePerrotta))  
+- 🐙 [GitHub](https://github.com/NicolePerrotta)
