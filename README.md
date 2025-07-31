@@ -22,7 +22,7 @@
 - 📍 Based in Milan, Italy  
 - 🌍 Originally from Rome  
 - 🎓 Master’s Degree: Computer Science and Engineering – Politecnico di Milano *(Sep 2022 – Jul 2025)*  
-- 🎓 Bachelor’s Degree: Ingegneria Informatica e Automatica – Sapienza Università di Roma *(2019 – 2022, Grade: 110/110)*  
+- 🎓 Bachelor’s Degree: Ingegneria Informatica e Automatica – Sapienza Università di Roma *(2019 – 2022, Grade: 110/110)* 
 - 💬 Passionate about data, tech, sales, and customer-facing roles  
 - 🤝 Strong in data science, solution delivery, collaboration and team leadership  
 - 🚀 Always seeking innovative solutions to business challenges  
@@ -31,44 +31,89 @@
 
 ### 🛠️ Skills & Technologies
 
+#### 🧠 Programming
+
 <p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-  <a href="https://dev.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://spark.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/apache-spark-colored.svg" width="36" height="36" alt="Spark" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-  <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="32" alt="C" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="32" alt="C++" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="32" alt="Java" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scala-colored.svg" width="32" alt="Scala" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="32" alt="PHP" />
+  <span>Assembly</span>
+</p>
+
+#### 🗄️ Data & Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="32" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="32" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="32" alt="MongoDB" />
+  <span>Neo4j</span>
+  <span>Cassandra</span>
+  <span>Spark</span>
+  <span>Elasticsearch</span>
+</p>
+
+#### ⚙️ DevOps & Systems
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="32" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="32" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="32" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="32" alt="Bash" />
+</p>
+
+#### 🌐 Web & UI
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="32" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="32" alt="CSS3" />
+  <span>Bootstrap</span>
+</p>
+
+#### ☁️ Cloud
+
+<p align="left">
+  <span>Microsoft Azure Fundamentals</span>
+  <span>NetApp Hybrid Cloud Associate</span>
+</p>
+
+#### 📊 Analysis & Business
+
+<p align="left">
+  <span>Excel (Rice University)</span>
+  <span>Financial Statement Analysis</span>
+</p>
+
+#### 📌 Additional Areas
+
+<p align="left">
+  <span>Machine Learning</span>, <span>Data Engineering</span>, <span>Telecommunications</span>, <span>Software Development</span>, <span>Problem Solving</span>, <span>Whiteboarding</span>, <span>Product Demo</span>, <span>Communication</span>, <span>Customer Interaction</span>, <span>Team Leadership</span>, <span>Computer Graphics (Vulkan)</span>
 </p>
 
 ---
 
 ### 📜 Certifications
 
-- 🟦 **Microsoft:** Azure Fundamentals AZ-900 - *Issued Jul 2025* – Credential ID: `E528B930F6DC9209`  
+- 🟦 **Microsoft:** Azure Fundamentals AZ-900 – *Issued Jul 2025*  
 - 💾 **NetApp:** NetApp Accredited Foundations Associate – *Issued Apr 2025*  
 - 💾 **NetApp:** Accredited Hybrid Cloud Associate – *Issued Apr 2025*  
 - 📘 **LinkedIn:** A Beginner's Guide to Public Cloud Options – *Issued Feb 2025*  
-- 📊 **Rice University:** Introduction To Data Analysis Using Excel – *Issued Sep 2024*  
+- 📊 **Rice University:** Intro to Data Analysis Using Excel – *Issued Sep 2024*  
 - 📈 **Politecnico di Milano:** Project Management Beyond Planning and Control – *Issued Oct 2023*  
-- 🇬🇧 **Cambridge International Education:** B2 First – *Issued Dec 2021*  
-- 🇬🇧 **British Council:** IELTS Grade 6.5 – *Issued May 2022 – Expired May 2024*
+- 🇬🇧 **Cambridge International:** B2 First – *Issued Dec 2021*  
+- 🇬🇧 **British Council:** IELTS Grade 6.5 – *Issued May 2022 (Expired)*  
 
 ---
 
 ### 📬 Contacts
 
-- 📧 [perrottanicole00@gmail.com](mailto:perrottanicole00@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicole-perrotta-117693201/)  
+- 📧 [perrottanicole00@gmail.com](mailto:perrottanicole00@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicole-perrotta-117693201/)
 - 📸 [Instagram](https://www.instagram.com/nicole_perrotta7/)  
-- 🏅 [Credly Badges](https://www.credly.com/users/nicole-perrotta.445990ef/)  
+- 🏅 [Credly Badges](https://www.credly.com/users/nicole-perrotta.445990ef/)
 - 🐙 [GitHub](https://github.com/NicolePerrotta)
 
 ---
@@ -76,10 +121,10 @@
 ### ☕ Support Me
 
 <p>
-  <a href="https://www.buymeacoffee.com/NicolePerrotta" target="_blank">
+  <a href="https://www.buymeacoffee.com/yourusername">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
   </a>
-  <a href="https://ko-fi.com/NicolePerrotta" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Ko-fi" />
+  <a href="https://www.ko-fi.com/yourusername">
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Ko-Fi" />
   </a>
 </p>
