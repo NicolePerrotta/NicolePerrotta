@@ -33,39 +33,39 @@
 
 #### 🧠 Programming
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="20" style="vertical-align: middle;" />, 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="20" style="vertical-align: middle;" />, 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="20" style="vertical-align: middle;" />, 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" style="vertical-align: middle;" />, 
-  <img src="https://cdn.brandfetch.io/idjTXE6-rQ/w/400/h/400/theme/dark/icon.jpeg" width="20" style="vertical-align: middle;" />, 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" style="vertical-align: middle;" />, 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="20" style="vertical-align: middle;" />, 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="20" style="vertical-align: middle;" /> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="20" style="vertical-align: middle;" /> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="20" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" style="vertical-align: middle;" />
+  <img src="https://cdn.brandfetch.io/idjTXE6-rQ/w/400/h/400/theme/dark/icon.jpeg" width="20" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="20" style="vertical-align: middle;" />
   <img src="https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg" width="20" style="vertical-align: middle;" />
 </p>
 
 #### 🗄️ Data & Databases
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="20" style="vertical-align: middle;" />, 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="20" style="vertical-align: middle;" />, 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="20" style="vertical-align: middle;" />, 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Neo4j-logo_color.png/640px-Neo4j-logo_color.png" width="20" style="vertical-align: middle;" />, 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" width="20" style="vertical-align: middle;" />, 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="20" style="vertical-align: middle;" />, 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="20" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="20" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="20" style="vertical-align: middle;" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Neo4j-logo_color.png/640px-Neo4j-logo_color.png" width="20" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" width="20" style="vertical-align: middle;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="20" style="vertical-align: middle;" />
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="20" style="vertical-align: middle;" />
 </p>
 
 #### ⚙️ DevOps & Systems
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="20" style="vertical-align: middle;" />, 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="20" style="vertical-align: middle;" />, 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="20" style="vertical-align: middle;" />, 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="20" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="20" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="20" style="vertical-align: middle;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="20" style="vertical-align: middle;" />
 </p>
 
 #### 🌐 Web & UI
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="20" style="vertical-align: middle;" />, 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" style="vertical-align: middle;" />, 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="20" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" style="vertical-align: middle;" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" style="vertical-align: middle;" />
 </p>
 
