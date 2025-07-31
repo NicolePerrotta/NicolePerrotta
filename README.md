@@ -32,68 +32,52 @@
 ### 🛠️ Skills & Technologies
 
 #### 🧠 Programming
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="32" alt="C" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="32" alt="C++" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="32" alt="Java" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scala-colored.svg" width="32" alt="Scala" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="32" alt="PHP" />
-  <span>Assembly</span>
-</p>
+- Python <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="20" />,  
+- C <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="20" />,  
+- C++ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="20" />,  
+- Java <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" />,  
+- Scala <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scala-colored.svg" width="20" />,  
+- JavaScript <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" />,  
+- PHP <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="20" />,  
+- Assembly 🧠  
 
 #### 🗄️ Data & Databases
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="32" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="32" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="32" alt="MongoDB" />
-  <span>Neo4j</span>
-  <span>Cassandra</span>
-  <span>Spark</span>
-  <span>Elasticsearch</span>
-</p>
+- PostgreSQL <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="20" />,  
+- MySQL <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="20" />,  
+- MongoDB <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="20" />,  
+- Neo4j 🧠, Cassandra 🧠, Spark 🧠, Elasticsearch 🧠  
 
 #### ⚙️ DevOps & Systems
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="32" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="32" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="32" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="32" alt="Bash" />
-</p>
+- Docker <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="20" />,  
+- GitHub <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="20" />,  
+- Linux <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="20" />,  
+- Bash <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="20" />  
 
 #### 🌐 Web & UI
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="32" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="32" alt="CSS3" />
-  <span>Bootstrap</span>
-</p>
+- HTML <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="20" />,  
+- CSS <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" />,  
+- Bootstrap 🧠  
 
 #### ☁️ Cloud
-
-<p align="left">
-  <span>Microsoft Azure Fundamentals</span>
-  <span>NetApp Hybrid Cloud Associate</span>
-</p>
+- Microsoft Azure Fundamentals ☁️,  
+- NetApp Hybrid Cloud Associate ☁️  
 
 #### 📊 Analysis & Business
+- Excel (Rice University) 📊,  
+- Financial Statement Analysis 📉  
 
-<p align="left">
-  <span>Excel (Rice University)</span>
-  <span>Financial Statement Analysis</span>
-</p>
-
-#### 📌 Additional Areas
-
-<p align="left">
-  <span>Machine Learning</span>, <span>Data Engineering</span>, <span>Telecommunications</span>, <span>Software Development</span>, <span>Problem Solving</span>, <span>Whiteboarding</span>, <span>Product Demo</span>, <span>Communication</span>, <span>Customer Interaction</span>, <span>Team Leadership</span>, <span>Computer Graphics (Vulkan)</span>
-</p>
-
----
+#### 🧩 Additional Areas
+- Machine Learning 🤖,  
+- Data Engineering 🛠️,  
+- Telecommunications 📡,  
+- Software Development 🧑‍💻,  
+- Problem Solving 🧠,  
+- Whiteboarding ✏️,  
+- Product Demo 🪧,  
+- Communication 🗣️,  
+- Customer Interaction 🤝,  
+- Team Leadership 👥,  
+- Computer Graphics (Vulkan) 🎮
 
 ### 📜 Certifications
 
