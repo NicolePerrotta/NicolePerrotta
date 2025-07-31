@@ -91,34 +91,8 @@
 
 ---
 
-### ☕ Support Me
+### 🏆 Trophies
 
-<p>
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://www.ko-fi.com/yourusername">
-    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Ko-Fi" />
-  </a>
-</p>
-
-
-<!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=albertopirillo&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NicolePerrotta&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
 </div>
-
-<h2></h2>
-
-
-<!--
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/-"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/-"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
--->
