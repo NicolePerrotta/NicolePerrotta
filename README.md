@@ -16,22 +16,22 @@
 
 ### 🌐 Quick Facts
 
-- 💼 Professional Services Associate with a background in Computer Science & Engineering  
+- 💼 Professional Services Consultant at NetApp  
 - 📍 Based in Milan, Italy  
 - 🌍 Originally from Rome
 - 🎓 Master’s Degree: Computer Science and Engineering – Politecnico di Milano *(Sep 2022 – Jul 2025)*  
-- 🎓 Bachelor’s Degree: Ingegneria Informatica e Automatica – Sapienza Università di Roma - 110/110 *(2019 – 2022, Grade: 110/110)*  
-- 💬 Passionate about tech, sales, and customer-facing roles  
-- 🤝 Strong in solution delivery, collaboration and team leadership   
+- 🎓 Bachelor’s Degree: Ingegneria Informatica e Automatica – Sapienza Università di Roma *(2019 – 2022, Grade: 110/110)* 
+- 💬 Passionate about data, tech, sales, and customer-facing roles  
+- 🤝 Strong in data science, solution delivery, collaboration and team leadership   
 - 🚀 Always seeking innovative solutions to business challenges 
 
 ### 🛠️ Skills & Technologies
 
 - **Programming:** Python, C, C++, Java, Scala, JavaScript, PHP, Assembly  
 - **Data & Databases:** PostgreSQL, MySQL, MongoDB, Neo4j, Cassandra, Spark, Elasticsearch  
-- **DevOps & Systems:** Docker, GitHub, Linux, Bash  
+- **DevOps & Systems:** Docker, GitHub, Linux, Bash
+- **Web & UI:** HTML, CSS, Bootstrap
 - **Cloud:** Microsoft Azure Fundamentals, NetApp Hybrid Cloud Associate  
-- **Web & UI:** HTML, CSS, Bootstrap  
 - **Analysis & Business:** Excel (Rice University), Financial Statement Analysis  
 - **Additional Areas:** Machine Learning, Data Engineering, Telecommunications, Software Development, Problem Solving, Whiteboarding, Product Demo, Communication, Customer Interaction, Team Leadership, Computer Graphics (Vulkan)
 
@@ -46,11 +46,10 @@
 - 🇬🇧 **Cambridge International Education:** B2 First – *Issued Dec 2021*  
 - 🇬🇧 **British Council:** IELTS Grade 6.5 – *Issued May 2022 – Expired May 2024*
 
-### 🔗 Socials
+### 📬 Contacts
 
-[![GitHub]([utente](https://github.com/NicolePerrotta))  
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuonomeutente](https://www.linkedin.com/in/nicole-perrotta-117693201/))
-
-### 🏆 GitHub Achievements
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tuonomeutente&theme=flat&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+- 📧 Email: [perrottanicole00@gmail.com](mailto:perrottanicole00@gmail.com)
+- 💼 [LinkedIn]([https://linkedin.com/in/tuonomeutente](https://www.linkedin.com/in/nicole-perrotta-117693201/))  
+- 📸 [Instagram](https://www.instagram.com/nicole_perrotta7/)  
+- 🏅 [Credly Badges](https://www.credly.com/users/nicole-perrotta.445990ef/)
+- 🐙 [GitHub]([https://github.com/tuonomeutente](https://github.com/NicolePerrotta))  
