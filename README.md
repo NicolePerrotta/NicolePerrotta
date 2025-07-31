@@ -21,7 +21,8 @@
 - 💼 Professional Services Consultant at NetApp  
 - 📍 Based in Milan, Italy  
 - 🌍 Originally from Rome  
-- 🎓 Master’s Degree: Computer Science and Engineering – Politecnico di Milano *(Sep 2022 – Jul 2025)*  
+- 🎓 Master’s Degree: Computer Science and Engineering – Politecnico di Milano *(09/2022 – 07/2025)*
+- 🧪 Researcher at WiNES Lab – Northeastern University, Boston *(05/2024 – 11/2024)*  
 - 🎓 Bachelor’s Degree: Ingegneria Informatica e Automatica – Sapienza Università di Roma *(2019 – 2022, Grade: 110/110)* 
 - 💬 Passionate about data, tech, sales, and customer-facing roles  
 - 🤝 Strong in data science, solution delivery, collaboration and team leadership  
