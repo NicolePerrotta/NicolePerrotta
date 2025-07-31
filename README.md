@@ -94,5 +94,5 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NicolePerrotta&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NicolePerrotta&theme=flat&no-frame=true&no-bg=true&row=1&column=7&title_color=000000&text_color=000000&icon_color=9370DB" width="100%" alt="GitHub Trophies" />
 </div>
