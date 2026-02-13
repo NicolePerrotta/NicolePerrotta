@@ -62,7 +62,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" style="vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" style="vertical-align: middle;" />
 
-- <strong>☁️ Cloud:</strong> Microsoft Azure Fundamentals, NetApp Hybrid Cloud Associate  
+- <strong>☁️ Cloud:</strong> Microsoft Azure Fundamentals <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure" width="20" style="vertical-align: middle;" />, NetApp Hybrid Cloud Associate <img src="https://images.credly.com/images/124def82-c185-40c3-a0bb-b34d36b49936/image.png" alt="NetApp Hybrid Cloud Associate" width="20" style="vertical-align: middle;" />
 - <strong>📊 Analysis & Business:</strong> Matlab, Excel, Financial Statement Analysis, Marketing Strategy  
 - <strong>🧩 Additional Areas:</strong> Machine Learning, Data Engineering, Telecommunications, Software Development, Problem Solving, Whiteboarding, Product Demo, Communication, Customer Interaction, Team Leadership, Computer Graphics (Vulkan)
 
