@@ -5,7 +5,7 @@
 <h1 align="center">Computer Science Engineer</h1>
 
 <p align="center">
-  I'm a Computer Science Engineer, currently working as a Professional Services Consultant at NetApp. <br>
+  I'm a Computer Science Engineer, currently working as a Solutions Engineer at Darktrace <br>
   With a passion for bridging the gap between cutting-edge technology and customer needs, I bring a blend of technical expertise <br>
   and a keen interest in sales and customer-facing activities within the tech industry.
   <br><br>
@@ -18,9 +18,10 @@
 
 ### 🌐 Quick Facts
 
-- 💼 Professional Services Consultant at NetApp  
+- 💼 Solutions Engineer at Darktrace
 - 📍 Based in Milan, Italy  
-- 🌍 Originally from Rome  
+- 🌍 Originally from Rome
+- 💼 01/2025 - 03/2026 Professional Services Consultant at NetApp
 - 🎓 Master’s Degree: Computer Science and Engineering – Politecnico di Milano *(09/2022 – 07/2025)*
 - 🧪 Researcher at WiNES Lab – Northeastern University, Boston *(05/2024 – 11/2024)*  
 - 🎓 Bachelor’s Degree: Ingegneria Informatica e Automatica – Sapienza Università di Roma *(2019 – 2022, Grade: 110/110)* 
